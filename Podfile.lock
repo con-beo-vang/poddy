@@ -1,0 +1,45 @@
+PODS:
+  - AFNetworking (2.6.0):
+    - AFNetworking/NSURLConnection (= 2.6.0)
+    - AFNetworking/NSURLSession (= 2.6.0)
+    - AFNetworking/Reachability (= 2.6.0)
+    - AFNetworking/Security (= 2.6.0)
+    - AFNetworking/Serialization (= 2.6.0)
+    - AFNetworking/UIKit (= 2.6.0)
+  - AFNetworking/NSURLConnection (2.6.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.0)
+  - AFNetworking/Security (2.6.0)
+  - AFNetworking/Serialization (2.6.0)
+  - AFNetworking/UIKit (2.6.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - EGOCache (2.1.3)
+  - FSImageViewer (3.4):
+    - AFNetworking (~> 2.5)
+    - EGOCache (~> 2.1)
+    - UAProgressView (~> 0.1)
+  - PhotoTweaks (1.0.2)
+  - UAProgressView (0.1.2)
+  - VIPhotoView (0.1)
+
+DEPENDENCIES:
+  - FSImageViewer (~> 3.4)
+  - PhotoTweaks (~> 1.0.2)
+  - VIPhotoView (~> 0.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: 79f7eb1a0fcfa7beb409332b2ca49afe9ce53b05
+  EGOCache: f0295dbe041156acabd39021354ad1045ee49e72
+  FSImageViewer: 0dea92069cce74a800b75cb8777c923f2be59124
+  PhotoTweaks: e91ce097f9df435049e7c35d419f9a7749e252bc
+  UAProgressView: 4ef6d60b4e060884cb0315e7628256f998744247
+  VIPhotoView: bdc0cf8ddadda754b451869bd3a919e8eb5c11ab
+
+COCOAPODS: 0.38.2
